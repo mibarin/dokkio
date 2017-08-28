@@ -15,6 +15,6 @@ public class DKBasePageObject extends BasePageObject {
 	}
 	
 	public void moveToJobs(){
-		this.jsExecutorClick(jobs);;
+		this.jsExecutorClick(jobs);
 	}
 }

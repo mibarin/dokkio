@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="DokkioTestSuite" duration-ms="10677" started-at="2017-08-28T05:14:57Z" finished-at="2017-08-28T05:15:08Z">
+  <suite name="DokkioTestSuite" duration-ms="12276" started-at="2017-08-28T18:29:42Z" finished-at="2017-08-28T18:29:54Z">
     <groups>
     </groups>
-    <test name="FireFoxTests" duration-ms="6210" started-at="2017-08-28T05:14:57Z" finished-at="2017-08-28T05:15:03Z">
+    <test name="FireFoxTests" duration-ms="8446" started-at="2017-08-28T18:29:42Z" finished-at="2017-08-28T18:29:51Z">
       <class name="com.dokkio.ui.testcases.QAJobDisplayTest">
-        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="SetUp" is-config="true" duration-ms="4267" started-at="2017-08-27T22:14:57Z" finished-at="2017-08-27T22:15:01Z">
+        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="SetUp" is-config="true" duration-ms="4849" started-at="2017-08-28T11:29:42Z" finished-at="2017-08-28T11:29:47Z">
           <params>
             <param index="0">
               <value>
@@ -18,23 +18,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="SRFSEntineerShownByDefaultTest()[pri:1, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="SRFSEntineerShownByDefaultTest" duration-ms="433" started-at="2017-08-27T22:15:01Z" finished-at="2017-08-27T22:15:02Z">
+        <test-method status="PASS" signature="SRFSEntineerShownByDefaultTest()[pri:1, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="SRFSEntineerShownByDefaultTest" duration-ms="137" started-at="2017-08-28T11:29:47Z" finished-at="2017-08-28T11:29:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SRFSEntineerShownByDefaultTest -->
-        <test-method status="PASS" signature="QAJobDisplayedAfterButtonClickedTest()[pri:2, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="QAJobDisplayedAfterButtonClickedTest" duration-ms="838" started-at="2017-08-27T22:15:02Z" finished-at="2017-08-27T22:15:02Z">
+        <test-method status="PASS" signature="QAJobDisplayedAfterButtonClickedTest()[pri:2, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="QAJobDisplayedAfterButtonClickedTest" duration-ms="135" started-at="2017-08-28T11:29:47Z" finished-at="2017-08-28T11:29:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- QAJobDisplayedAfterButtonClickedTest -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="TearDown" is-config="true" duration-ms="660" started-at="2017-08-27T22:15:02Z" finished-at="2017-08-27T22:15:03Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@59494225]" name="TearDown" is-config="true" duration-ms="3307" started-at="2017-08-28T11:29:47Z" finished-at="2017-08-28T11:29:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- com.dokkio.ui.testcases.QAJobDisplayTest -->
     </test> <!-- FireFoxTests -->
-    <test name="ChromeTests" duration-ms="4466" started-at="2017-08-28T05:15:03Z" finished-at="2017-08-28T05:15:08Z">
+    <test name="ChromeTests" duration-ms="3812" started-at="2017-08-28T18:29:51Z" finished-at="2017-08-28T18:29:54Z">
       <class name="com.dokkio.ui.testcases.QAJobDisplayTest">
-        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="SetUp" is-config="true" duration-ms="3019" started-at="2017-08-27T22:15:03Z" finished-at="2017-08-27T22:15:06Z">
+        <test-method status="PASS" signature="SetUp(java.lang.String)[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="SetUp" is-config="true" duration-ms="2959" started-at="2017-08-28T11:29:51Z" finished-at="2017-08-28T11:29:54Z">
           <params>
             <param index="0">
               <value>
@@ -45,15 +45,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="SRFSEntineerShownByDefaultTest()[pri:1, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="SRFSEntineerShownByDefaultTest" duration-ms="271" started-at="2017-08-27T22:15:06Z" finished-at="2017-08-27T22:15:06Z">
+        <test-method status="PASS" signature="SRFSEntineerShownByDefaultTest()[pri:1, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="SRFSEntineerShownByDefaultTest" duration-ms="148" started-at="2017-08-28T11:29:54Z" finished-at="2017-08-28T11:29:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SRFSEntineerShownByDefaultTest -->
-        <test-method status="PASS" signature="QAJobDisplayedAfterButtonClickedTest()[pri:2, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="QAJobDisplayedAfterButtonClickedTest" duration-ms="600" started-at="2017-08-27T22:15:06Z" finished-at="2017-08-27T22:15:07Z">
+        <test-method status="PASS" signature="QAJobDisplayedAfterButtonClickedTest()[pri:2, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="QAJobDisplayedAfterButtonClickedTest" duration-ms="165" started-at="2017-08-28T11:29:54Z" finished-at="2017-08-28T11:29:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- QAJobDisplayedAfterButtonClickedTest -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="TearDown" is-config="true" duration-ms="573" started-at="2017-08-27T22:15:07Z" finished-at="2017-08-27T22:15:08Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.dokkio.ui.testcases.QAJobDisplayTest@60c6f5b]" name="TearDown" is-config="true" duration-ms="536" started-at="2017-08-28T11:29:54Z" finished-at="2017-08-28T11:29:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
