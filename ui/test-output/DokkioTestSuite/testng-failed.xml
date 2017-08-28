@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [DokkioTestSuite]">
+  <test name="FireFoxTests(failed)">
+    <parameter name="browser" value="FireFox"/>
+    <classes>
+      <class name="com.dokkio.ui.testcases.QAJobDisplayTest">
+        <methods>
+          <include name="QAJobDisplayedAfterButtonClickedTest"/>
+          <include name="SetUp"/>
+          <include name="SRFSEntineerShownByDefaultTest"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.dokkio.ui.testcases.QAJobDisplayTest -->
+    </classes>
+  </test> <!-- FireFoxTests(failed) -->
+</suite> <!-- Failed suite [DokkioTestSuite] -->
